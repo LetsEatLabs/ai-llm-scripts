@@ -1,3 +1,8 @@
+# Get planting and care details about a crop plant from GPT-4
+# Usage: python garden_schema.py [plant-name] [zone]
+# jheckt 2023-06-14
+
+
 import openai
 import os, sys
 
